@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/alfiebgtbhgh/MasterHub-V301/main/"..game.PlaceId..".lua")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DestyXyz/Master-Hub-V2/main/mainx"))()
